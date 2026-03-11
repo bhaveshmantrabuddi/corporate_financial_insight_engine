@@ -1,0 +1,11 @@
+# Environments
+.env
+
+# Data and Databases
+data/
+faiss_index/
+
+# Python cache
+__pycache__/
+*.pyc
+src/__pycache__/
